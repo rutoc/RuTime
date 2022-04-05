@@ -1,0 +1,18 @@
+name: PokeCrias
+description: Sistemas de aprendizagem
+main: com.jogueminecraft.bukkit.Main
+version: 1.0
+authors: [RuToc]
+commands:
+  light:
+    description: Ligue a luz
+    aliases: luz
+  clearchat:
+    description: Limpe o chat
+    aliases: limparchat
+  discord:
+    description: Ver o Discord
+    aliases: dc
+permissions:
+  chat.clear:
+    default: op

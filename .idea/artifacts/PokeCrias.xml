@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PokeCrias">
+    <output-path>$USER_HOME$/Desktop/Java</output-path>
+    <root id="archive" name="PokeCrias.jar">
+      <element id="module-output" name="RuTime" />
+    </root>
+  </artifact>
+</component>
